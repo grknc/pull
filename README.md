@@ -5,6 +5,6 @@ Mustafa Gürkan Çanakçi
 Ayşe Arslan Çanakçi
 
 Kaynaklar:
-Data Science
+Data Science Project
 
 Yeniden güncelleme
