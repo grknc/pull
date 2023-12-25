@@ -2,5 +2,7 @@
 Mustafa Gürkan Çanakçi
 Ayşe Çanakçi
 
-Yeniden güncelleme
+Kaynaklar:
+Data Science
 
+Yeniden güncelleme
