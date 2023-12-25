@@ -4,3 +4,5 @@ Ayşe Çanakçi
 
 Kaynaklar:
 Data Science
+
+Yeniden güncelleme
