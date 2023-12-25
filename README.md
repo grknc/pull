@@ -1,6 +1,8 @@
+Yeni dosyamız
+
 # Katkıda Bulunalar 
 Mustafa Gürkan Çanakçi
-Ayşe Çanakçi
+Ayşe Arslan Çanakçi
 
 Kaynaklar:
 Data Science
