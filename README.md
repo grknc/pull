@@ -8,3 +8,4 @@ Kaynaklar:
 Data Science Project
 
 Yeniden güncelleme
+Request Deneme
